@@ -1,4 +1,5 @@
 # Provisioning an Azure Virtual Machine with PowerShell
+# For more information check blog article at https://www.cloudstk.com/provisioning-an-azure-vm-with-powershell/
  
 #1 Authenticate your Azure subscription
 
